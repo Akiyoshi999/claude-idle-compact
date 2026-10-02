@@ -1,0 +1,5 @@
+{
+  "name": "idle-compact",
+  "version": "0.1.0",
+  "description": "Compacts once when the main conversation has been idle 50-60 minutes since its last model request, before the 1h prompt cache lapses."
+}
