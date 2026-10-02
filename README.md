@@ -1,0 +1,1 @@
+# claude-idle-compact
